@@ -1,4 +1,4 @@
-/ ./src/block.js
+// ./src/block.js
 
 // * Contains the class definition for a single block.
 
